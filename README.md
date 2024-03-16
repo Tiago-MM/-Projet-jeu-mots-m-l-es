@@ -1,4 +1,4 @@
-# -Projet-jeu-mots-m-l-es
+# -Projet-jeu-mots-meles
 
 Nous avons créé un programme en POO permettant de générer un jeu de de mots mêlés pours deux joueurs. Pour cela, nous avons créé 5 classes différentes (mot, dictionnaire, jeu, joueur et plateau). Nous avons généré aléatoirement les grilles pour chaque niveau et une méthode permettant de sauvegarder ou non la partie de jeu en cours. Cela sauvegarde les grilles, les mots trouvés et les paramètres des joueurs.
 
